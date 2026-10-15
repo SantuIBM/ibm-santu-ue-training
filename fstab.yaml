@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34583-e1771246.adobeaemcloud.com//bin/franklin.delivery/SantuIBM/ibm-santu-ue-training/main"
+    url: "https://author-p34583-e1771246.adobeaemcloud.com/bin/franklin.delivery/SantuIBM/ibm-santu-ue-training/main"
     type: "markup"
     suffix: ".html"
